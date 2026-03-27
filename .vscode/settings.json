@@ -2,5 +2,8 @@
     "editor.defaultFormatter": "ms-python.python",
     "workbench.editorAssociations": {   
         "*.md": "vscode.markdown.preview.editor"
-    }
+    },
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ]
 }
